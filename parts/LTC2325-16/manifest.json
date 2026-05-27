@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2325-16:LTC2325-16",
+  "name": "LTC2325-16",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2325-16.kicad_sym",
+  "description": "Quad, 16-Bit, 5Msps/Ch Simultaneous Sampling ADC, LVDS/CMOS interface, QFN-52",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/232516fa.pdf",
+  "keywords": "16-Bit 5msps 4 channel adc lvds cmos",
+  "footprint": "Package_DFN_QFN:QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2325-16/",
+  "part_path": "parts/LTC2325-16",
+  "symbol_file": "parts/LTC2325-16/LTC2325-16.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:21.867Z"
+}

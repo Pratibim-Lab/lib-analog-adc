@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2309xUF:LTC2309xUF",
+  "name": "LTC2309xUF",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2309xUF.kicad_sym",
+  "description": "8 Channels, 12-Bit SAR ADC, I2C interface, QFN-24 package",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/2309fd.pdf",
+  "keywords": "LT ADC 12bit I2C SAR QFN",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2309xUF/",
+  "part_path": "parts/LTC2309xUF",
+  "symbol_file": "parts/LTC2309xUF/LTC2309xUF.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:19.890Z"
+}

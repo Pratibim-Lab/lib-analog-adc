@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7616:AD7616",
+  "name": "AD7616",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7616.kicad_sym",
+  "description": "16-Channel DAS with 16-Bit, Bipolar Input, Dual Simultaneous Sampling ADC, 2x1MSPS ADC, Serial and parallel IO, LQFP-80",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7616.pdf",
+  "keywords": "16bit DAS ADC 16channel 1MSPS",
+  "footprint": "Package_QFP:LQFP-80_14x14mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7616/",
+  "part_path": "parts/AD7616",
+  "symbol_file": "parts/AD7616/AD7616.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:27.669Z"
+}

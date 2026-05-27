@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD40xxBCPZ:AD40xxBCPZ",
+  "name": "AD40xxBCPZ",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD40xxBCPZ.kicad_sym",
+  "description": "18-Bit, 2 MSPS/1 MSPS/500 kSPS, Differential SAR ADCs, 2.4V to 5.1V reference, 1.8V supply, 1.71 to 5.5V logic IO, 3x3mm LFCSP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad4003-4007-4011.pdf",
+  "keywords": "ADC 18-bit AD4003BCPZ AD4007BCPZ AD4011BCPZ",
+  "footprint": "Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD40xxBCPZ/",
+  "part_path": "parts/AD40xxBCPZ",
+  "symbol_file": "parts/AD40xxBCPZ/AD40xxBCPZ.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:06.261Z"
+}

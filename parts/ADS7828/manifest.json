@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7828:ADS7828",
+  "name": "ADS7828",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7828.kicad_sym",
+  "description": "12-Bits, 8-Channels, ADC, I2C, TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads7828.pdf",
+  "keywords": "I2C ADC 12Bits",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7828/",
+  "part_path": "parts/ADS7828",
+  "symbol_file": "parts/ADS7828/ADS7828.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:30.257Z"
+}

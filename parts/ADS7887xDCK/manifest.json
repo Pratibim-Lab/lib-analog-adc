@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7887xDCK:ADS7887xDCK",
+  "name": "ADS7887xDCK",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7887xDCK.kicad_sym",
+  "description": "Single Channel 10-bit ADC, 1.25Msps, SPI, micro-power, SC-70",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads7887.pdf",
+  "keywords": "Texas-Instruments ADS7887SDCK",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "ADS7866",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7887xDCK/",
+  "part_path": "parts/ADS7887xDCK",
+  "symbol_file": "parts/ADS7887xDCK/ADS7887xDCK.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:36.990Z"
+}

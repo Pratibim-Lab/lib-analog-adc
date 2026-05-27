@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7722:AD7722",
+  "name": "AD7722",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7722.kicad_sym",
+  "description": "16-Bit, 195 kSPS CMOS, Sigma-Delta ADC, PQFP-44 (JEDEC MO-112 variation AA-2)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7722.pdf",
+  "keywords": "adc 1ch 16bit parallel serial",
+  "footprint": "Package_QFP:Microchip_PQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7722/",
+  "part_path": "parts/AD7722",
+  "symbol_file": "parts/AD7722/AD7722.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:32.276Z"
+}

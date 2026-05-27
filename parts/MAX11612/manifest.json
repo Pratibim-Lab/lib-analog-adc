@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX11612:MAX11612",
+  "name": "MAX11612",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX11612.kicad_sym",
+  "description": "4-channel single-ended or 2-channel, differential, 12-bit ADC, I2C, 4.096V internal reference, 8-MSOP package",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf",
+  "keywords": "adc i2c 4ch",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX11612/",
+  "part_path": "parts/MAX11612",
+  "symbol_file": "parts/MAX11612/MAX11612.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:40.280Z"
+}

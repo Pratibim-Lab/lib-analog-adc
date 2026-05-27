@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC082S101:ADC082S101",
+  "name": "ADC082S101",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC082S101.kicad_sym",
+  "description": "2 channel, 500 - 1000 ksps, 8-bit ADC, 2.7 - 5.25V supply, TSSOP-8 (MSOP-8, Texas VSSOP-8)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/adc082s101.pdf",
+  "keywords": "ADC Texas-Instruments Analog-to-Digital-Converter QSPI SPI MICROWIRE",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "ADC082S021",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC082S101/",
+  "part_path": "parts/ADC082S101",
+  "symbol_file": "parts/ADC082S101/ADC082S101.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:47.339Z"
+}

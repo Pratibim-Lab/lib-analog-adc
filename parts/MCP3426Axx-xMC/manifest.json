@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3426Axx-xMC:MCP3426Axx-xMC",
+  "name": "MCP3426Axx-xMC",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3426Axx-xMC.kicad_sym",
+  "description": "16-Bit, Multi-Channel ΔΣ Analog-to-Digital Converter with I2C Interface and On-Board Reference, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf",
+  "keywords": "adc 2ch 16bit i2c",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3426Axx-xMC/",
+  "part_path": "parts/MCP3426Axx-xMC",
+  "symbol_file": "parts/MCP3426Axx-xMC/MCP3426Axx-xMC.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:05.640Z"
+}

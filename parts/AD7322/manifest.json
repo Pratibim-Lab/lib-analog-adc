@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7322:AD7322",
+  "name": "AD7322",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7322.kicad_sym",
+  "description": "2-Channel, software selectable input range ±10 V, ±5V, ±2.5V, 0 V to +10 V, true bipolar input, 12-Bit plus sign, 1 MSPS SAR ADC, TSSOP-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7322.pdf",
+  "keywords": "Analog-Devices ADC bipolar 12-Bit SPI",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "AD7321",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7322/",
+  "part_path": "parts/AD7322",
+  "symbol_file": "parts/AD7322/AD7322.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:14.897Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1220xPW:ADS1220xPW",
+  "name": "ADS1220xPW",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1220xPW.kicad_sym",
+  "description": "Low-power, quad-input, 24-bit analog to digital converter, integrated temperature sensor, SPI interface, TSSOP-16 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1220.pdf",
+  "keywords": "adc spi",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "ADS1120-PW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1220xPW/",
+  "part_path": "parts/ADS1220xPW",
+  "symbol_file": "parts/ADS1220xPW/ADS1220xPW.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:11.923Z"
+}

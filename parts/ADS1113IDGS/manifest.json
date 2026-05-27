@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1113IDGS:ADS1113IDGS",
+  "name": "ADS1113IDGS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1113IDGS.kicad_sym",
+  "description": "Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference and Oscillator, VSSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1113.pdf",
+  "keywords": "16 bit single channel I2C ADC",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "ADS1013IDGS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1113IDGS/",
+  "part_path": "parts/ADS1113IDGS",
+  "symbol_file": "parts/ADS1113IDGS/ADS1113IDGS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:05.895Z"
+}

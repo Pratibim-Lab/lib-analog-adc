@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC081C021CIMM:ADC081C021CIMM",
+  "name": "ADC081C021CIMM",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC081C021CIMM.kicad_sym",
+  "description": "I2C-Compatible, 8-Bit Analog-to-Digital Converter with Alert Function, MSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/adc081c021.pdf",
+  "keywords": "ADC I2C 8-bit Alert",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC081C021CIMM/",
+  "part_path": "parts/ADC081C021CIMM",
+  "symbol_file": "parts/ADC081C021CIMM/ADC081C021CIMM.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:44.453Z"
+}

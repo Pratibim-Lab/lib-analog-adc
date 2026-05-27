@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3204:MCP3204",
+  "name": "MCP3204",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3204.kicad_sym",
+  "description": "A/D Converter, 12-Bit, 4-Channel, SPI Interface, 2.7V-5.5V",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf",
+  "keywords": "12bit ADC Reference Single Supply SPI 4ch",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3204/",
+  "part_path": "parts/MCP3204",
+  "symbol_file": "parts/MCP3204/MCP3204.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:55.091Z"
+}

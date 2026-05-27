@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7868:ADS7868",
+  "name": "ADS7868",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7868.kicad_sym",
+  "description": "Single Channel 8-bit ADC, 100-200 ksps, SPI interface, micro-power, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads7866.pdf",
+  "keywords": "Texas-Instruments Burr-Brown",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "ADS7866",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7868/",
+  "part_path": "parts/ADS7868",
+  "symbol_file": "parts/ADS7868/ADS7868.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:33.155Z"
+}

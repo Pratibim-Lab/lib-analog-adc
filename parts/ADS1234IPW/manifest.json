@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1234IPW:ADS1234IPW",
+  "name": "ADS1234IPW",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1234IPW.kicad_sym",
+  "description": "Dual Bridge 24bit ADC for Sensors, TSSOP-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1232.pdf",
+  "keywords": "ADC 24bit Sensors Quad Channel",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1234IPW/",
+  "part_path": "parts/ADS1234IPW",
+  "symbol_file": "parts/ADS1234IPW/ADS1234IPW.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:13.952Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX11120xTI:MAX11120xTI",
+  "name": "MAX11120xTI",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX11120xTI.kicad_sym",
+  "description": "4-Channel 8-Bit 1.5MHz Full-Linear Bandwidth External Reference High-Speed Low-Power ADC, QFN-28",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX11120-MAX11128.pdf",
+  "keywords": "MAXIM ADC 3.3V 8-Bit SPI",
+  "footprint": "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX11120xTI/",
+  "part_path": "parts/MAX11120xTI",
+  "symbol_file": "parts/MAX11120xTI/MAX11120xTI.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:30.281Z"
+}

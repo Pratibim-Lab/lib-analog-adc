@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS131M08xPBS:ADS131M08xPBS",
+  "name": "ADS131M08xPBS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS131M08xPBS.kicad_sym",
+  "description": "8-channel, 24-bit, simultaneous sampling Delta-Sigma ADC, 32kSPS, G=1..128 PGA, SPI interface, integrated 1.2V reference, TQFP-32 (Texas PBS / S-PQFP-G32)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads131m08.pdf",
+  "keywords": "Texas-Instruments analog-digital-converter",
+  "footprint": "Package_QFP:TQFP-32_5x5mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS131M08xPBS/",
+  "part_path": "parts/ADS131M08xPBS",
+  "symbol_file": "parts/ADS131M08xPBS/ADS131M08xPBS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:21.164Z"
+}

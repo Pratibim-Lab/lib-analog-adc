@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX1112:MAX1112",
+  "name": "MAX1112",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX1112.kicad_sym",
+  "description": "8-Channel Single-Ended or 4-Channel Differential 8-Bit ADC, SSOP-20",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf",
+  "keywords": "MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX1112/",
+  "part_path": "parts/MAX1112",
+  "symbol_file": "parts/MAX1112/MAX1112.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:29.311Z"
+}

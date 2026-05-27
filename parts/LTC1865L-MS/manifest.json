@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1865L-MS:LTC1865L-MS",
+  "name": "LTC1865L-MS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1865L-MS.kicad_sym",
+  "description": "Dual channel 16-bit SAR Analog to Digital Converter, 3V supply, 150ksps, SPI interface",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/18645lfs.pdf",
+  "keywords": "adc 2ch",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1865L-MS/",
+  "part_path": "parts/LTC1865L-MS",
+  "symbol_file": "parts/LTC1865L-MS/LTC1865L-MS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:04.755Z"
+}

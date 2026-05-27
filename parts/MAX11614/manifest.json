@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX11614:MAX11614",
+  "name": "MAX11614",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX11614.kicad_sym",
+  "description": "8-channel single-ended or 4-channel, differential, 12-bit ADC, I2C, 4.096V internal reference, 16-QSOP package",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf",
+  "keywords": "adc i2c 8ch",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX11614/",
+  "part_path": "parts/MAX11614",
+  "symbol_file": "parts/MAX11614/MAX11614.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:42.197Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7794:AD7794",
+  "name": "AD7794",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7794.kicad_sym",
+  "description": "24-Bit, 6-Channel Sigma-Delta ADC, TSSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7794_7795.pdf",
+  "keywords": "adc 6ch 24bit serial",
+  "footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7794/",
+  "part_path": "parts/AD7794",
+  "symbol_file": "parts/AD7794/AD7794.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:36.720Z"
+}

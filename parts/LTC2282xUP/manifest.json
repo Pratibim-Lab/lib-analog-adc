@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2282xUP:LTC2282xUP",
+  "name": "LTC2282xUP",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2282xUP.kicad_sym",
+  "description": "Dual-Channel, 12-Bit Low Power ADC, 105Msps, QFN-64",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/2282fb.pdf",
+  "keywords": "ADC",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2282xUP/",
+  "part_path": "parts/LTC2282xUP",
+  "symbol_file": "parts/LTC2282xUP/LTC2282xUP.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:06.875Z"
+}

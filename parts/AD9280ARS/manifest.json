@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD9280ARS:AD9280ARS",
+  "name": "AD9280ARS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD9280ARS.kicad_sym",
+  "description": "Video ADC (32 Mhz), SSOP-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9280.pdf",
+  "keywords": "ADC CAN VIDEO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD9280ARS/",
+  "part_path": "parts/AD9280ARS",
+  "symbol_file": "parts/AD9280ARS/AD9280ARS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:40.635Z"
+}

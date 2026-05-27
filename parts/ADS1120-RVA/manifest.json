@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1120-RVA:ADS1120-RVA",
+  "name": "ADS1120-RVA",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1120-RVA.kicad_sym",
+  "description": "Low-power, quad-input, 16-bit analog to digital converter, integrated temperature sensor, SPI interface, QFN-16 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1120.pdf",
+  "keywords": "adc spi",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1120-RVA/",
+  "part_path": "parts/ADS1120-RVA",
+  "symbol_file": "parts/ADS1120-RVA/ADS1120-RVA.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:10.981Z"
+}

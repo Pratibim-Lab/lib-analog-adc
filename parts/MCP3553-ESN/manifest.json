@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3553-ESN:MCP3553-ESN",
+  "name": "MCP3553-ESN",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3553-ESN.kicad_sym",
+  "description": "Single Delta-Sigma 22bit Analog to Digital Converter, SPI Interface, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/21950c.pdf",
+  "keywords": "Sigma-Delta ADC Converter 22bit SPI 1ch",
+  "footprint": "",
+  "extends": "MCP3550-60-ESN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3553-ESN/",
+  "part_path": "parts/MCP3553-ESN",
+  "symbol_file": "parts/MCP3553-ESN/MCP3553-ESN.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:15.953Z"
+}

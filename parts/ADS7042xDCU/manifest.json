@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7042xDCU:ADS7042xDCU",
+  "name": "ADS7042xDCU",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7042xDCU.kicad_sym",
+  "description": "Ultra-Low Power, Ultra-Small Size, 12-Bit, 1-MSPS, SAR ADC",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads7042.pdf",
+  "keywords": "12 bit SAR ADC",
+  "footprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+  "extends": "ADS7040xDCU",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7042xDCU/",
+  "part_path": "parts/ADS7042xDCU",
+  "symbol_file": "parts/ADS7042xDCU/ADS7042xDCU.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:26.349Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7699BCP:AD7699BCP",
+  "name": "AD7699BCP",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7699BCP.kicad_sym",
+  "description": "16-Bit, 8-Channel, 500 kSPS PulSAR ADC, LFSCP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7699.pdf",
+  "keywords": "ADC, SPI",
+  "footprint": "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "AD7949BCP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7699BCP/",
+  "part_path": "parts/AD7699BCP",
+  "symbol_file": "parts/AD7699BCP/AD7699BCP.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:30.897Z"
+}

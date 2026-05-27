@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3423x-xUN:MCP3423x-xUN",
+  "name": "MCP3423x-xUN",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3423x-xUN.kicad_sym",
+  "description": "2-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference, MSOP-10",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf",
+  "keywords": "18-Bit ADC I2C Delta-Sigma-ADC Delta-Sigma-ADC Reference 2ch",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3423x-xUN/",
+  "part_path": "parts/MCP3423x-xUN",
+  "symbol_file": "parts/MCP3423x-xUN/MCP3423x-xUN.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:01.802Z"
+}

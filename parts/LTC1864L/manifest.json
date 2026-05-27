@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1864L:LTC1864L",
+  "name": "LTC1864L",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1864L.kicad_sym",
+  "description": "Single channel 16-bit SAR Analog to Digital Converter, 3V supply, differential input, 150ksps, SPI interface",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/18645lfs.pdf",
+  "keywords": "adc spi 1ch",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1864L/",
+  "part_path": "parts/LTC1864L",
+  "symbol_file": "parts/LTC1864L/LTC1864L.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:01.777Z"
+}

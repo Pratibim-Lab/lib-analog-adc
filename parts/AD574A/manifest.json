@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD574A:AD574A",
+  "name": "AD574A",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD574A.kicad_sym",
+  "description": "12-Bit Successive-Approximation (SAR) ADC",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad574a.pdf",
+  "keywords": "analog",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD574A/",
+  "part_path": "parts/AD574A",
+  "symbol_file": "parts/AD574A/AD574A.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:08.357Z"
+}

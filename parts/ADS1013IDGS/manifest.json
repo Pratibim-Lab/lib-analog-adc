@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1013IDGS:ADS1013IDGS",
+  "name": "ADS1013IDGS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1013IDGS.kicad_sym",
+  "description": "Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference and Oscillator, VSSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1015.pdf",
+  "keywords": "12 bit single channel I2C ADC",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1013IDGS/",
+  "part_path": "parts/ADS1013IDGS",
+  "symbol_file": "parts/ADS1013IDGS/ADS1013IDGS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:00.756Z"
+}

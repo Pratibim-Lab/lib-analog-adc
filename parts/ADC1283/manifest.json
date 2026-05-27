@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC1283:ADC1283",
+  "name": "ADC1283",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC1283.kicad_sym",
+  "description": "Low power 8-channel single ended 12-bit SAR ADC, 50 ksps to 200 ksps, SPI, TSSOP-16",
+  "datasheet": "https://www.st.com/resource/en/datasheet/adc1283.pdf",
+  "keywords": "ADC 2.7V 3.3V 5.5V SPI 12bit 8-channel",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC1283/",
+  "part_path": "parts/ADC1283",
+  "symbol_file": "parts/ADC1283/ADC1283.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:58.800Z"
+}

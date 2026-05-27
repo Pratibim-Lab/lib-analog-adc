@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3428x-xST:MCP3428x-xST",
+  "name": "MCP3428x-xST",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3428x-xST.kicad_sym",
+  "description": "16-Bit, Multi-Channel ΔΣ Analog-to-Digital Converter with I2C Interface and On-Board Reference, TSSOP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf",
+  "keywords": "adc 4ch 16bit i2c",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "MCP3428x-xSL",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3428x-xST/",
+  "part_path": "parts/MCP3428x-xST",
+  "symbol_file": "parts/MCP3428x-xST/MCP3428x-xST.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:11.967Z"
+}

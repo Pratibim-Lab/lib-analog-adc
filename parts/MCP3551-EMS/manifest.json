@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3551-EMS:MCP3551-EMS",
+  "name": "MCP3551-EMS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3551-EMS.kicad_sym",
+  "description": "Single Delta-Sigma 22bit Analog to Digital Converter, SPI Interface, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/21950c.pdf",
+  "keywords": "Sigma-Delta ADC Converter 22bit SPI 1ch",
+  "footprint": "",
+  "extends": "MCP3550-50-EMS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3551-EMS/",
+  "part_path": "parts/MCP3551-EMS",
+  "symbol_file": "parts/MCP3551-EMS/MCP3551-EMS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:14.837Z"
+}

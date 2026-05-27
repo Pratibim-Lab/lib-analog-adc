@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7886xxDBV:ADS7886xxDBV",
+  "name": "ADS7886xxDBV",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7886xxDBV.kicad_sym",
+  "description": "Single Channel 12-bit ADC, 1Msps, SPI, micro-power, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads7886.pdf",
+  "keywords": "Texas-Instruments ADS7886SDBV ADS7886SBDBV",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "ADS7866",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7886xxDBV/",
+  "part_path": "parts/ADS7886xxDBV",
+  "symbol_file": "parts/ADS7886xxDBV/ADS7886xxDBV.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:34.133Z"
+}

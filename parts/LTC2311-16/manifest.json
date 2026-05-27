@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2311-16:LTC2311-16",
+  "name": "LTC2311-16",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2311-16.kicad_sym",
+  "description": "16-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, LVDS/CMOS interface, MSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/231116fa.pdf",
+  "keywords": "16-bit adc differential input 5 msps lvds cmos",
+  "footprint": "Package_SO:MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2311-16/",
+  "part_path": "parts/LTC2311-16",
+  "symbol_file": "parts/LTC2311-16/LTC2311-16.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:20.865Z"
+}

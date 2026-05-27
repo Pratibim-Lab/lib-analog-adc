@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7039:ADS7039",
+  "name": "ADS7039",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7039.kicad_sym",
+  "description": "Small-Size, Low-Power, 10-Bit, 2-MSPS, SAR ADC",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads7039-q1.pdf",
+  "keywords": "10 bit SAR ADC",
+  "footprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+  "extends": "ADS7040xDCU",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7039/",
+  "part_path": "parts/ADS7039",
+  "symbol_file": "parts/ADS7039/ADS7039.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:23.479Z"
+}

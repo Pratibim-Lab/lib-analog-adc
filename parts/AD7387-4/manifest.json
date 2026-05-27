@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7387-4:AD7387-4",
+  "name": "AD7387-4",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7387-4.kicad_sym",
+  "description": "Single-Ended Input, Quad, Simultaneous Sampling, 14-bit resolution, SAR ADC, SNR = 82.4 dB at VREF = 3.3V, UQFN-24 (LFCSP-24)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad7386-4-7387-4-7388-4.pdf",
+  "keywords": "Analog-Devices SPI",
+  "footprint": "Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP0.5x0.5mm",
+  "extends": "AD7386-4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7387-4/",
+  "part_path": "parts/AD7387-4",
+  "symbol_file": "parts/AD7387-4/AD7387-4.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:22.471Z"
+}

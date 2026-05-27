@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC101C021CIMK:ADC101C021CIMK",
+  "name": "ADC101C021CIMK",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC101C021CIMK.kicad_sym",
+  "description": "10-bit I2C ADC, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/adc101c021.pdf",
+  "keywords": "adc 10-bit i2c",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC101C021CIMK/",
+  "part_path": "parts/ADC101C021CIMK",
+  "symbol_file": "parts/ADC101C021CIMK/ADC101C021CIMK.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:49.256Z"
+}

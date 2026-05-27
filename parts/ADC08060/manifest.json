@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC08060:ADC08060",
+  "name": "ADC08060",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC08060.kicad_sym",
+  "description": "Fast ADC  (20 .. 60 Mhz), TSSOP-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/adc08060.pdf",
+  "keywords": "ADC CAN VIDEO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC08060/",
+  "part_path": "parts/ADC08060",
+  "symbol_file": "parts/ADC08060/ADC08060.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:43.557Z"
+}

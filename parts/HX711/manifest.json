@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/HX711:HX711",
+  "name": "HX711",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/HX711.kicad_sym",
+  "description": "24-bit Analog-to-Digital Converter (ADC) for Weight Scales, SOIC-16 (SOP-16)",
+  "datasheet": "https://web.archive.org/web/20220615044707/https://akizukidenshi.com/download/ds/avia/hx711.pdf",
+  "keywords": "load-cell 24-bits",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/HX711/",
+  "part_path": "parts/HX711",
+  "symbol_file": "parts/HX711/HX711.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:46.760Z"
+}

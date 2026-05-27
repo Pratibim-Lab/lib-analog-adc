@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2508IDKD-32:LTC2508IDKD-32",
+  "name": "LTC2508IDKD-32",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2508IDKD-32.kicad_sym",
+  "description": "32-Bit Oversampling ADC with Configurable Digital Filter, -40°C to 85°C, DFN-24 package",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/250832fc.pdf",
+  "keywords": "LT ADC 32bit",
+  "footprint": "Package_DFN_QFN:DFN-24-1EP_4x7mm_P0.5mm_EP2.64x6.44mm",
+  "extends": "LTC2508CDKD-32",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2508IDKD-32/",
+  "part_path": "parts/LTC2508IDKD-32",
+  "symbol_file": "parts/LTC2508IDKD-32/LTC2508IDKD-32.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:28.288Z"
+}

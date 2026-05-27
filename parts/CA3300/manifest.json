@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/CA3300:CA3300",
+  "name": "CA3300",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/CA3300.kicad_sym",
+  "description": "Convertisseur A->D 6 bits rapide",
+  "datasheet": "",
+  "keywords": "ADC CAN",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/CA3300/",
+  "part_path": "parts/CA3300",
+  "symbol_file": "parts/CA3300/CA3300.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:45.845Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3201:MCP3201",
+  "name": "MCP3201",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3201.kicad_sym",
+  "description": "2.7V 12-Bit A/D Converter with SPI™ Serial Interface, PDIP-8/SOIC-8/MSOP-8/TSSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21290D.pdf",
+  "keywords": "12-Bit Differential ADC SPI 1ch",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3201/",
+  "part_path": "parts/MCP3201",
+  "symbol_file": "parts/MCP3201/MCP3201.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:53.176Z"
+}

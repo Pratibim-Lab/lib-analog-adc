@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS7866:ADS7866",
+  "name": "ADS7866",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS7866.kicad_sym",
+  "description": "Single Channel 12-bit ADC, 100-200 ksps, SPI, micro-power, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads7866.pdf",
+  "keywords": "Texas-Instruments Burr-Brown",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS7866/",
+  "part_path": "parts/ADS7866",
+  "symbol_file": "parts/ADS7866/ADS7866.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:31.228Z"
+}

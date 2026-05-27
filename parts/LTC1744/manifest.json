@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1744:LTC1744",
+  "name": "LTC1744",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1744.kicad_sym",
+  "description": "14-Bit, 50Msps, ADC, TSSOP-48",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1744f.pdf",
+  "keywords": "ADC analog digital converter pipeline",
+  "footprint": "Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm",
+  "extends": "LTC1742",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1744/",
+  "part_path": "parts/LTC1744",
+  "symbol_file": "parts/LTC1744/LTC1744.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:57.511Z"
+}

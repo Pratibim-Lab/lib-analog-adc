@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/INA234AxYBJ:INA234AxYBJ",
+  "name": "INA234AxYBJ",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/INA234AxYBJ.kicad_sym",
+  "description": "Bidirectional Current/Voltage/Power Monitor (0-28V) With I2C Interface, DSBGA-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina234.pdf",
+  "keywords": "ADC I2C 12-Bit Current Voltage Power Shunt",
+  "footprint": "Package_BGA:Texas_DSBGA-8_0.705x1.468mm_Layout2x4_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/INA234AxYBJ/",
+  "part_path": "parts/INA234AxYBJ",
+  "symbol_file": "parts/INA234AxYBJ/INA234AxYBJ.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:49.795Z"
+}

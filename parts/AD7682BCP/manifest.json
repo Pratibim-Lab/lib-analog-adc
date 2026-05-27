@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7682BCP:AD7682BCP",
+  "name": "AD7682BCP",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7682BCP.kicad_sym",
+  "description": "16-bit, 4-Channel, 250kSPS, PulSAR ADC, Bipolar-Unipolar, LFCSP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf",
+  "keywords": "16-Bit 4-Channel 250kSPS",
+  "footprint": "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7682BCP/",
+  "part_path": "parts/AD7682BCP",
+  "symbol_file": "parts/AD7682BCP/AD7682BCP.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:28.865Z"
+}

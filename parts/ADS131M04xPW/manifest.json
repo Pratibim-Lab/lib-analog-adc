@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS131M04xPW:ADS131M04xPW",
+  "name": "ADS131M04xPW",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS131M04xPW.kicad_sym",
+  "description": "4-Channel, 24-bit, simultaneous sampling Delta-Sigma ADC, 64kSPS, G=1..128 PGA, SPI interface, integrated 1.2V reference, TSSOP-20",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads131m04.pdf",
+  "keywords": "Texas-Instruments quad analog-digital converter low-power",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS131M04xPW/",
+  "part_path": "parts/ADS131M04xPW",
+  "symbol_file": "parts/ADS131M04xPW/ADS131M04xPW.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:20.231Z"
+}

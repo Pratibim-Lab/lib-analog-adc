@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1598IG:LTC1598IG",
+  "name": "LTC1598IG",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1598IG.kicad_sym",
+  "description": "Micropower 12-bit 8 Channel ADC, Serial IO, SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/15948fb.pdf",
+  "keywords": "12bit ADC 4 Channel",
+  "footprint": "",
+  "extends": "LTC1598CG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1598IG/",
+  "part_path": "parts/LTC1598IG",
+  "symbol_file": "parts/LTC1598IG/LTC1598IG.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:55.554Z"
+}

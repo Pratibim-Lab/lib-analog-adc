@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX1249:MAX1249",
+  "name": "MAX1249",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX1249.kicad_sym",
+  "description": "4-Channel 10-Bit ADC with Serial Interface, +2.7V to +5.25V, Low-Power",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1248-MAX1249.pdf",
+  "keywords": "10-Bit ADC Serial 4-Channel Maxim",
+  "footprint": "",
+  "extends": "MAX1248",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX1249/",
+  "part_path": "parts/MAX1249",
+  "symbol_file": "parts/MAX1249/MAX1249.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:47.028Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3002:MCP3002",
+  "name": "MCP3002",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3002.kicad_sym",
+  "description": "Dual Channel 10-Bit A/D Converter with SPI Serial Interface",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf",
+  "keywords": "Dual Channel 10-Bit ADC SPI 2CH",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3002/",
+  "part_path": "parts/MCP3002",
+  "symbol_file": "parts/MCP3002/MCP3002.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:50.098Z"
+}

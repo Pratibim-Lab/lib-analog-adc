@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2358-16:LTC2358-16",
+  "name": "LTC2358-16",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2358-16.kicad_sym",
+  "description": "LTC2358 Buffered Octal, 16 bit, 200ksps/Ch Differential ±10.24V Simultaneous Sampling ADC, 30Vpp common mode range, LQFP-48",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/235816f.pdf",
+  "keywords": "16bit Simultaneous Sampling ADC 8 Channels SPI buffered",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2358-16/",
+  "part_path": "parts/LTC2358-16",
+  "symbol_file": "parts/LTC2358-16/LTC2358-16.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:23.055Z"
+}

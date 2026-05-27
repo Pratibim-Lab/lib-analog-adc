@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX11617:MAX11617",
+  "name": "MAX11617",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX11617.kicad_sym",
+  "description": "12-channel single-ended or 6-channel, differential, 12-bit ADC, I2C, 2.048V internal reference, 16-QSOP package",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf",
+  "keywords": "adc i2c 12ch",
+  "footprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "MAX11616",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX11617/",
+  "part_path": "parts/MAX11617",
+  "symbol_file": "parts/MAX11617/MAX11617.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:45.073Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD40xxBRMZ:AD40xxBRMZ",
+  "name": "AD40xxBRMZ",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD40xxBRMZ.kicad_sym",
+  "description": "18-Bit, 2 MSPS/1 MSPS/500 kSPS, Differential SAR ADCs, 2.4V to 5.1V reference, 1.8V supply, 1.71 to 5.5V logic IO, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad4003-4007-4011.pdf",
+  "keywords": "ADC 18-bit AD4003BRMZ AD4007BRMZ AD4011BRMZ",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD40xxBRMZ/",
+  "part_path": "parts/AD40xxBRMZ",
+  "symbol_file": "parts/AD40xxBRMZ/AD40xxBRMZ.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:07.337Z"
+}

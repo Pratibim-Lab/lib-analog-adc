@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1594IS:LTC1594IS",
+  "name": "LTC1594IS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1594IS.kicad_sym",
+  "description": "Micropower 12-bit 4 Channel ADC, Serial IO, SO-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/15948fb.pdf",
+  "keywords": "12bit ADC 4 Channel",
+  "footprint": "",
+  "extends": "LTC1594CS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1594IS/",
+  "part_path": "parts/LTC1594IS",
+  "symbol_file": "parts/LTC1594IS/LTC1594IS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:53.661Z"
+}

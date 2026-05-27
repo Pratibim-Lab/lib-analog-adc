@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS127L01xPBS:ADS127L01xPBS",
+  "name": "ADS127L01xPBS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS127L01xPBS.kicad_sym",
+  "description": "24-bit delta-sigma ADC, Single Channel, 512 kSPS, SPI & Frame-Sync interface, TQFP-32",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ads127l01.pdf",
+  "keywords": "Texas-Instruments high-speed 24bit ADS127L01IPBS",
+  "footprint": "Package_QFP:TQFP-32_5x5mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS127L01xPBS/",
+  "part_path": "parts/ADS127L01xPBS",
+  "symbol_file": "parts/ADS127L01xPBS/ADS127L01xPBS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:17.102Z"
+}

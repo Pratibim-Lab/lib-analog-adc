@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AMC3336:AMC3336",
+  "name": "AMC3336",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AMC3336.kicad_sym",
+  "description": "Reinforced Isolated Delta-Sigma Modulator With Integrated DC/DC Converter, SOIC-16W",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/amc3336.pdf",
+  "keywords": "isolated adc delta sigma integrated power supply",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AMC3336/",
+  "part_path": "parts/AMC3336",
+  "symbol_file": "parts/AMC3336/AMC3336.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:44.713Z"
+}

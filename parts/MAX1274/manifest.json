@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MAX1274:MAX1274",
+  "name": "MAX1274",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MAX1274.kicad_sym",
+  "description": "1.8Msps, Single-Supply, Low-Power, True-Differential, 12-Bit ADCs, bipolar input",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1274-MAX1275.pdf",
+  "keywords": "12bit ADC 1CH diff differential",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MAX1274/",
+  "part_path": "parts/MAX1274",
+  "symbol_file": "parts/MAX1274/MAX1274.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:48.026Z"
+}

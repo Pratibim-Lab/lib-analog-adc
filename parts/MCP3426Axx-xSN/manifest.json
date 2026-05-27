@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/MCP3426Axx-xSN:MCP3426Axx-xSN",
+  "name": "MCP3426Axx-xSN",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/MCP3426Axx-xSN.kicad_sym",
+  "description": "16-Bit, Multi-Channel ΔΣ Analog-to-Digital Converter with I2C Interface and On-Board Reference, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf",
+  "keywords": "adc 2ch 16bit i2c",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MCP3426Axx-xMS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/MCP3426Axx-xSN/",
+  "part_path": "parts/MCP3426Axx-xSN",
+  "symbol_file": "parts/MCP3426Axx-xSN/MCP3426Axx-xSN.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:25:07.982Z"
+}

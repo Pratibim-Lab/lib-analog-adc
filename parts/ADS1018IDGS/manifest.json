@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1018IDGS:ADS1018IDGS",
+  "name": "ADS1018IDGS",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1018IDGS.kicad_sym",
+  "description": "Ultrasmall, Low-Power, SPI-Compatible, 12-Bit, Analog-to-Digital Converter With Internal Reference and Temperature Sensor, VSSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1018.pdf",
+  "keywords": "12 bit 4 channel SPI ADC",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1018IDGS/",
+  "part_path": "parts/ADS1018IDGS",
+  "symbol_file": "parts/ADS1018IDGS/ADS1018IDGS.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:03.945Z"
+}

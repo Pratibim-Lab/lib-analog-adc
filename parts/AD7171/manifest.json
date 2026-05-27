@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7171:AD7171",
+  "name": "AD7171",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7171.kicad_sym",
+  "description": "Single channel Analog to Digital Converter, 16-bit, differential input, 125Hz, SPI interface",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf",
+  "keywords": "sigma delta adc spi 1ch",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7171/",
+  "part_path": "parts/AD7171",
+  "symbol_file": "parts/AD7171/AD7171.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:12.106Z"
+}

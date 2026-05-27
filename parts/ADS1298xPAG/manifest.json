@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS1298xPAG:ADS1298xPAG",
+  "name": "ADS1298xPAG",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS1298xPAG.kicad_sym",
+  "description": "ADS1298 Low-Power, 8-Channel, 24-Bit Analog Front-End for Biopotential Measurements, TQFP-64",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads1298.pdf",
+  "keywords": "24bit ADC PGA SPI",
+  "footprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS1298xPAG/",
+  "part_path": "parts/ADS1298xPAG",
+  "symbol_file": "parts/ADS1298xPAG/ADS1298xPAG.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:18.115Z"
+}

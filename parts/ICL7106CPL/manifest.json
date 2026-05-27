@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ICL7106CPL:ICL7106CPL",
+  "name": "ICL7106CPL",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ICL7106CPL.kicad_sym",
+  "description": "3 1/2 Digit, LCD Display, A/D Converter, DIP-40",
+  "datasheet": "https://www.renesas.com/eu/en/www/doc/datasheet/icl7106-07-07s.pdf",
+  "keywords": "LCD ADC",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ICL7106CPL/",
+  "part_path": "parts/ICL7106CPL",
+  "symbol_file": "parts/ICL7106CPL/ICL7106CPL.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:47.693Z"
+}

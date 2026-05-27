@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7606:AD7606",
+  "name": "AD7606",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7606.kicad_sym",
+  "description": "8-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC, LQFP-64",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf",
+  "keywords": "16bit DAS ADC 8channel 200KSPS",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7606/",
+  "part_path": "parts/AD7606",
+  "symbol_file": "parts/AD7606/AD7606.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:26.697Z"
+}

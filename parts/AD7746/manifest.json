@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD7746:AD7746",
+  "name": "AD7746",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD7746.kicad_sym",
+  "description": "24-bit capacitance-to-digital converter with temperature sensor, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7745_7746.pdf",
+  "keywords": "adc cdc capacitance",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD7746/",
+  "part_path": "parts/AD7746",
+  "symbol_file": "parts/AD7746/AD7746.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:34.360Z"
+}

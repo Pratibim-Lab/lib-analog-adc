@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADC1173:ADC1173",
+  "name": "ADC1173",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADC1173.kicad_sym",
+  "description": "Fast ADC  (15 Mhz), TSSOP-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/adc1173.pdf",
+  "keywords": "ADC CAN VIDEO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADC1173/",
+  "part_path": "parts/ADC1173",
+  "symbol_file": "parts/ADC1173/ADC1173.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:54.029Z"
+}

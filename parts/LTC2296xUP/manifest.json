@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2296xUP:LTC2296xUP",
+  "name": "LTC2296xUP",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2296xUP.kicad_sym",
+  "description": "Dual-Channel, 14-Bit Low Power ADC, 25Msps, QFN-64",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/229876fa.pdf",
+  "keywords": "ADC",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm",
+  "extends": "LTC2282xUP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2296xUP/",
+  "part_path": "parts/LTC2296xUP",
+  "symbol_file": "parts/LTC2296xUP/LTC2296xUP.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:15.104Z"
+}

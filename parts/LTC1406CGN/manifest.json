@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC1406CGN:LTC1406CGN",
+  "name": "LTC1406CGN",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC1406CGN.kicad_sym",
+  "description": "ADC 8bit Low Power 20Msps, SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1406f.pdf",
+  "keywords": "Low Power ADC 8bit 20Msps",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC1406CGN/",
+  "part_path": "parts/LTC1406CGN",
+  "symbol_file": "parts/LTC1406CGN/LTC1406CGN.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:50.796Z"
+}

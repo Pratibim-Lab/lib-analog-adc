@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/ADS8684:ADS8684",
+  "name": "ADS8684",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/ADS8684.kicad_sym",
+  "description": "16-Bit, 500-kSPS, 4-Channels, Single-Supply, SAR ADC with Bipolar Input Range, TSSOP-38",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ads8688.pdf",
+  "keywords": "adc analog digital spi bipolar input",
+  "footprint": "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/ADS8684/",
+  "part_path": "parts/ADS8684",
+  "symbol_file": "parts/ADS8684/ADS8684.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:23:40.940Z"
+}

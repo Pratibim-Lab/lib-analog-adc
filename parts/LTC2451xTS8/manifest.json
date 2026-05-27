@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/LTC2451xTS8:LTC2451xTS8",
+  "name": "LTC2451xTS8",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/LTC2451xTS8.kicad_sym",
+  "description": "Analog to Digital Converter, Single Channel, 16-Bit, 30/60 SPS, 2.7V to 5.5V, I2C interface, TSOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/2451fg.pdf",
+  "keywords": "analog to digital converter adc i2c twi single channel delta sigma 16 bit",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/LTC2451xTS8/",
+  "part_path": "parts/LTC2451xTS8",
+  "symbol_file": "parts/LTC2451xTS8/LTC2451xTS8.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:24:26.160Z"
+}

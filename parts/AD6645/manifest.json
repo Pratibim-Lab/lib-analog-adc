@@ -1,0 +1,17 @@
+{
+  "id": "Analog_ADC/AD6645:AD6645",
+  "name": "AD6645",
+  "library": "Analog_ADC",
+  "file": "Analog_ADC.kicad_symdir/AD6645.kicad_sym",
+  "description": "A/D Converter, 14-Bit, 80 MSPS/105 MSPS, TQFP-52",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD6645.pdf",
+  "keywords": "ADC differential analog digital converter",
+  "footprint": "Package_QFP:TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm",
+  "extends": "AD6644",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog-adc@master/parts/AD6645/",
+  "part_path": "parts/AD6645",
+  "symbol_file": "parts/AD6645/AD6645.kicad_sym",
+  "source_library": "Analog_ADC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:22:10.983Z"
+}
